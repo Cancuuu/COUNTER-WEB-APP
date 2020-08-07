@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #24272E ;
+
+}
+
+header {
+    
+    text-decoration: none;
+    text-align: center;
+    font-family: Asap;
+    padding: 20px 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+header a{
+    font-weight: lighter;
+    font-size: 25px;
+    font-family: asap;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-family: Asap;
+    padding: 20px 20px;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+
+.title p {
+    
+    
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: asap;
+    font-weight: lighter;
+    margin-top: 150px;
+    margin-bottom: 100px;
+
+}   
+
+#number{
+    text-align: center;
+    font-size: 50px;
+    margin: 50px auto;
+    color: whitesmoke;
+    border: 3px solid whitesmoke;
+    width: 200px;
+    font-family: asap, sans-serif;
+    border-radius: 10px ;
+}
+
+
+#center{
+    text-align: center;
+}
+
+button {
+    background: transparent;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    outline: none;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    display: inline-block;
+    font-family: asap;
+    border: 3px solid whitesmoke;
+    margin: 20px 20px;
+    width: 100px;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+
+}
+
+
+#cbc{
+    font-family: asap;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 300px;
+    
+    bottom: auto;
+}
